@@ -1,5 +1,5 @@
-<hr><td>Nama    :Moh Zainal Arifin</td>
-<br>Nim :1821500022</br>
+<hr><td>Nama    :Taufiqur rahman</td>
+<br>Nim :1821500005</br>
 <td>prodi :Teknologi informasi</td>
 </hr>
 
